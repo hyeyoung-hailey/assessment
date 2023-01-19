@@ -1,6 +1,6 @@
 package com.torthful.assessment.exception;
 
-import com.torthful.assessment.helloworld.FactNotFoundException;
+import com.torthful.assessment.fact.FactNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
