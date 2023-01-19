@@ -4,3 +4,7 @@ server:
 logging:
   level:
     org.springframework: DEBUG
+
+api:
+  key: B7qVjxhI4KcjELTFhYE5yw==Fj2MZ96QH0SPYeQD
+  url : https://api.api-ninjas.com/v1/facts?
